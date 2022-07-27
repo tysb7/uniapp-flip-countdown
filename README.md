@@ -19,8 +19,8 @@ import FlipCountdown from "@/components/FlipCountdown/FlipCountdown.vue"
 
 ```
 components:{
-			FlipCountdown
-		},
+	FlipCountdown
+},
 ```
 
 ## props
